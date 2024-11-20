@@ -1,5 +1,5 @@
 
-<div style="width: auto; height: 600; overflow: hidden; text-align: center;">
+<div style="width: auto; height: 600px; overflow: hidden; text-align: center;">
   <img src="https://img.freepik.com/premium-photo/nature-bee-insect-pollen-yellow-background-macro-apiculture-honey-gold-closeup-generative-ai_163305-184072.jpg" alt="Melting Honey" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
