@@ -1,7 +1,5 @@
+![GitHub Logo](https://img.freepik.com/premium-photo/nature-bee-insect-pollen-yellow-background-macro-apiculture-honey-gold-closeup-generative-ai_163305-184072.jpg)
 
-[Kaggle Account](https://www.kaggle.com/rassiem)
-
-[Project Notebook](https://www.kaggle.com/code/rassiem/purity-and-price-of-honey-eda)
 
 # Predict Purity and Price of Honey - Exploratory Data Analysis (EDA)
 #### Project Summary:
@@ -77,3 +75,7 @@ The main objective in this project is to analyze the relationship between the pu
 ### Next Steps:
 This analysis can serve as a basis for further modeling studies (e.g., linear regression or machine learning algorithms) and predictive analyses to estimate honey purity. Furthermore, more sophisticated trait engineering and modeling methods could be applied for honey price prediction.
 
+
+[Kaggle Account](https://www.kaggle.com/rassiem)
+
+[Project Notebook](https://www.kaggle.com/code/rassiem/purity-and-price-of-honey-eda)
