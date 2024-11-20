@@ -1,4 +1,4 @@
-
+![Kaggle Account][https://www.kaggle.com/rassiem]
 
 # Predict Purity and Price of Honey - Exploratory Data Analysis (EDA)
 #### Project Summary:
