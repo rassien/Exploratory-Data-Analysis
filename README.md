@@ -1,5 +1,7 @@
-![GitHub Logo](https://img.freepik.com/premium-photo/nature-bee-insect-pollen-yellow-background-macro-apiculture-honey-gold-closeup-generative-ai_163305-184072.jpg)
 
+<div style="width: auto; height: auto; overflow: hidden; text-align: center;">
+  <img src="https://img.freepik.com/premium-photo/nature-bee-insect-pollen-yellow-background-macro-apiculture-honey-gold-closeup-generative-ai_163305-184072.jpg" alt="Melting Honey" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 
 # Predict Purity and Price of Honey - Exploratory Data Analysis (EDA)
 #### Project Summary:
