@@ -1,4 +1,6 @@
-![Kaggle Account][https://www.kaggle.com/rassiem]
+
+[Kaggle Account](https://www.kaggle.com/rassiem)
+[Project Notebook](https://www.kaggle.com/code/rassiem/purity-and-price-of-honey-eda)
 
 # Predict Purity and Price of Honey - Exploratory Data Analysis (EDA)
 #### Project Summary:
