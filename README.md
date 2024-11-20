@@ -77,6 +77,7 @@ The main objective in this project is to analyze the relationship between the pu
 ### Next Steps:
 This analysis can serve as a basis for further modeling studies (e.g., linear regression or machine learning algorithms) and predictive analyses to estimate honey purity. Furthermore, more sophisticated trait engineering and modeling methods could be applied for honey price prediction.
 
+[Linkedln Account](www.linkedin.com/in/ilker-genc00)
 
 [Kaggle Account](https://www.kaggle.com/rassiem)
 
